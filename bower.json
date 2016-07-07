@@ -1,0 +1,22 @@
+{
+  "name": "rails-polymer-test",
+  "authors": [
+    "GHIDALIA Sarah <sarah.ghidalia@inria.fr>"
+  ],
+  "description": "",
+  "main": "application.html.erb",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper-card": "PolymerElements/paper-card",
+    "paper-button": "PolymerElements/paper-button",
+    "iron-ajax": "PolymerElements/iron-ajax#^1.2.1"
+  }
+}
